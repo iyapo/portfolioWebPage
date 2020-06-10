@@ -20,6 +20,10 @@ footer {
   margin: auto;
 }
 
+section {
+  text-align: center;
+}
+
 /**Logo**/
 
 header h1 {
